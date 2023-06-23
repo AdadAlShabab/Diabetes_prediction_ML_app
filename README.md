@@ -11,7 +11,6 @@ The data set that has used in this project has taken from the [kaggle](https://w
 The motivation was to experiment  with end to end machine learning project and get some idea about deployment platform like [Streamlit](https://streamlit.io/) and offcourse this "
 Diabetes is an increasingly growing health issue due to our inactive lifestyle. If it is detected in time then through proper medical treatment, adverse effects can be prevented. To help in early detection, technology can be used very reliably and efficiently. Using machine learning we have built a predictive model that can predict whether the patient is diabetes positive or not.".
 This is also sort of fun to work on a project like this which could be beneficial for the society. 
-
 ### Demo
 [Visit this link for live demo](https://diabetes-detection-ml.streamlit.app/)
 

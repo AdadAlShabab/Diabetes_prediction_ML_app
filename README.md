@@ -13,7 +13,6 @@ Diabetes is an increasingly growing health issue due to our inactive lifestyle. 
 This is also sort of fun to work on a project like this which could be beneficial for the society. 
 ### Demo
 [Visit this link for live demo](https://diabetes-detection-ml.streamlit.app/)
-
 ### Learning Objective
 The following points were the objective of the project . If you are looking for all the following points in this repo then i have not covered all in this repo. I'm working on blog about this mini project and I'll update the link of blog about all the points in details later . (The main intention was to create an end-to-end ML project.)  
 - Data gathering 

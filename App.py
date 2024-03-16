@@ -4,7 +4,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn import metrics
 from sklearn.model_selection import train_test_split
 
-st.title("Diabetes Prediction Using Machine Learning :boy::syringe: ")
+st.title("Diabetes Prediction Using Machine Learning :boy::syringe: :blue[By Adad Al Shabab]")
 st.write("""
 This app predicts Diabetes using Machine Learning. 
 
